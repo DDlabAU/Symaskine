@@ -5,7 +5,7 @@
 Tråd og indsæt undertråd som vist i [denne video.](https://www.youtube.com/watch?v=m55bud0gnTg)
 
 ## Hvordan man spoler undertråd
-1. Følg [denne video.](https://www.youtube.com/watch?v=baYgmIV4cIo)
+Følg [denne video.](https://www.youtube.com/watch?v=baYgmIV4cIo)
 
 ## Andre ting
 - Se [begynderguide til at sy.](https://www.youtube.com/watch?v=oD_KpZm7OaM)
